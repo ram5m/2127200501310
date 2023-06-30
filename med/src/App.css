@@ -1,0 +1,44 @@
+/* App.css */
+.container {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.train-details {
+  margin-top: 0;
+}
+
+.train-name {
+  margin-top: 0;
+  font-size: 24px;
+}
+
+.train-price,
+.train-departure,
+.train-delayed {
+  margin-top: 5px;
+}
